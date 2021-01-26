@@ -11,7 +11,7 @@ Dans de nombreuses disciplines scientifiques, des études expérimentales ou des
 #### Abondance, Gestion de données, Méthode « agile », Nettoyage des données,  Programmation Informatique.
 
 
-# About files joined
+# About joined files
 Supply of the computer program and the input, output, anomaly, corrected output files for the example of a torrent with 4 sites. 
 
 Input: raw data for the computer program.  
