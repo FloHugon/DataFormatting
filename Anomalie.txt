@@ -1,0 +1,118 @@
+fichier origine :AspeEstI_Aval_2017.xlsx
+fichier de destination :Abond_Covar_AspeEstI_Aval_2017.xlsx
+
+---------- Placette 1----------
+
+Erreur : Variable FlowV1Ori(typeString) (Position d'origine :Cellule C16 -> Position de destination : Cellule Q2 ) de la placette1 (Feuille A1) : Lent voire nul
+    -> Conditions de cohérence :  la valeur doit être soit faible; moyen; fort; Faible; Moyen ou Fort
+        -> Remplissage effectué : Lent voire nul en rouge
+
+Erreur : Variable FlowV2Ori(typeString) (Position d'origine :Cellule E16 -> Position de destination : Cellule R2 ) de la placette1 (Feuille A1) : Faible à nul
+    -> Conditions de cohérence :  la valeur doit être soit faible; moyen; fort; Faible; Moyen ou Fort
+        -> Remplissage effectué : Faible à nul en rouge
+
+Erreur : Variable MaxSizeDest(typeDouble) (Position d'origine :Cellule E17 -> Position de destination : Cellule Z2 ) de la placette1 (Feuille B1) : 1,6
+    -> Conditions de cohérence :  il n'y a pas d'unité
+        -> Remplissage effectué : 1,6 en rouge
+
+Erreur : Variable Strutta(typeString) (Position d'origine :Cellule C28 & E28 & G28 -> Position de destination : Cellule AC2 ) de la placette1 (Feuille A1) : 0,0,0
+    -> Conditions de cohérence :  Les trois valeurs sont des A et on indique 0, l'une des trois est un P et on indique 1
+        -> Remplissage effectué : error en rouge
+
+Erreur : Variable Nmaura(typeString) (Position d'origine :Cellule C29 & E29 & G29 -> Position de destination : Cellule AD2 ) de la placette1 (Feuille A1) : 0,0,0
+    -> Conditions de cohérence :  Les trois valeurs sont des A et on indique 0, l'une des trois est un P et on indique 1
+        -> Remplissage effectué : error en rouge
+
+Erreur : Variable Farming(typeString) (Position d'origine :Cellule E30 -> Position de destination : Cellule AE2 ) de la placette1 (Feuille B1) : vide
+    -> Conditions de cohérence :  valeur attendue : oui; non; Oui ou Non
+        -> Remplissage effectué : vide donc NA
+
+Erreur : Variable Moss,Herbaceous,Shrub,Trees(typeInteger) (Position d'origine :Cellule E31,E32,E33,E34 -> Position de destination : Cellule AI2,AH2,AG2,AF2 ) de la placette1 (Feuille B1) : 50,50,20,90
+    -> Conditions de cohérence :  La somme des 4 doit être égale à 100
+        -> Remplissage effectué : 50,50,20,90 en rouge
+
+
+---------- Placette 2----------
+
+Erreur : Variable CloudV2(typeInteger) (Position d'origine :Cellule E11 -> Position de destination : Cellule L3 ) de la placette2 (Feuille A2) : 100
+    -> Conditions de cohérence :  la valeur de Cloud doit être soit 0; 1; 2; 3; 4 ou 5
+        -> Remplissage effectué : 100 en rouge
+
+Erreur : Variable MaxSizeDest(typeDouble) (Position d'origine :Cellule E17 -> Position de destination : Cellule Z3 ) de la placette2 (Feuille B2) : 1
+    -> Conditions de cohérence :  il n'y a pas d'unité
+        -> Remplissage effectué : 1 en rouge
+
+Erreur : Variable Strutta(typeString) (Position d'origine :Cellule C28 & E28 & G28 -> Position de destination : Cellule AC3 ) de la placette2 (Feuille A2) : 0,0,0
+    -> Conditions de cohérence :  Les trois valeurs sont des A et on indique 0, l'une des trois est un P et on indique 1
+        -> Remplissage effectué : error en rouge
+
+Erreur : Variable Nmaura(typeString) (Position d'origine :Cellule C29 & E29 & G29 -> Position de destination : Cellule AD3 ) de la placette2 (Feuille A2) : 0,0,0
+    -> Conditions de cohérence :  Les trois valeurs sont des A et on indique 0, l'une des trois est un P et on indique 1
+        -> Remplissage effectué : error en rouge
+
+Erreur : Variable Farming(typeString) (Position d'origine :Cellule E30 -> Position de destination : Cellule AE3 ) de la placette2 (Feuille B2) : vide
+    -> Conditions de cohérence :  valeur attendue : oui; non; Oui ou Non
+        -> Remplissage effectué : vide donc NA
+
+Erreur : Variable Moss,Herbaceous,Shrub,Trees(typeInteger) (Position d'origine :Cellule E31,E32,E33,E34 -> Position de destination : Cellule AI3,AH3,AG3,AF3 ) de la placette2 (Feuille B2) : 10,10,0,90
+    -> Conditions de cohérence :  La somme des 4 doit être égale à 100
+        -> Remplissage effectué : 10,10,0,90 en rouge
+
+
+---------- Placette 3----------
+
+Erreur : Variable CloudV2(typeInteger) (Position d'origine :Cellule E11 -> Position de destination : Cellule L4 ) de la placette3 (Feuille A3) : 100
+    -> Conditions de cohérence :  la valeur de Cloud doit être soit 0; 1; 2; 3; 4 ou 5
+        -> Remplissage effectué : 100 en rouge
+
+Erreur : Variable Expo(typeString) (Position d'origine :Cellule E15 -> Position de destination : Cellule X4 ) de la placette3 (Feuille B3) : vide
+    -> Conditions de cohérence :  la valeur doit être Nord,Sud,Est ou Ouest
+        -> Remplissage effectué : vide donc NA
+
+Erreur : Variable Strutta(typeString) (Position d'origine :Cellule C28 & E28 & G28 -> Position de destination : Cellule AC4 ) de la placette3 (Feuille A3) : 0,0,0
+    -> Conditions de cohérence :  Les trois valeurs sont des A et on indique 0, l'une des trois est un P et on indique 1
+        -> Remplissage effectué : error en rouge
+
+Erreur : Variable Nmaura(typeString) (Position d'origine :Cellule C29 & E29 & G29 -> Position de destination : Cellule AD4 ) de la placette3 (Feuille A3) : 0,0,0
+    -> Conditions de cohérence :  Les trois valeurs sont des A et on indique 0, l'une des trois est un P et on indique 1
+        -> Remplissage effectué : error en rouge
+
+Erreur : Variable Farming(typeString) (Position d'origine :Cellule E30 -> Position de destination : Cellule AE4 ) de la placette3 (Feuille B3) : vide
+    -> Conditions de cohérence :  valeur attendue : oui; non; Oui ou Non
+        -> Remplissage effectué : vide donc NA
+
+Erreur : Variable Moss,Herbaceous,Shrub,Trees(typeInteger) (Position d'origine :Cellule E31,E32,E33,E34 -> Position de destination : Cellule AI4,AH4,AG4,AF4 ) de la placette3 (Feuille B3) : 10,5,0,90
+    -> Conditions de cohérence :  La somme des 4 doit être égale à 100
+        -> Remplissage effectué : 10,5,0,90 en rouge
+
+
+---------- Placette 4----------
+
+Erreur : Variable CloudV2(typeInteger) (Position d'origine :Cellule E11 -> Position de destination : Cellule L5 ) de la placette4 (Feuille A4) : 100
+    -> Conditions de cohérence :  la valeur de Cloud doit être soit 0; 1; 2; 3; 4 ou 5
+        -> Remplissage effectué : 100 en rouge
+
+Erreur : Variable Expo(typeString) (Position d'origine :Cellule E15 -> Position de destination : Cellule X5 ) de la placette4 (Feuille B4) : vide
+    -> Conditions de cohérence :  la valeur doit être Nord,Sud,Est ou Ouest
+        -> Remplissage effectué : vide donc NA
+
+Erreur : Variable MaxSizeDest(typeDouble) (Position d'origine :Cellule E17 -> Position de destination : Cellule Z5 ) de la placette4 (Feuille B4) : 1,2
+    -> Conditions de cohérence :  il n'y a pas d'unité
+        -> Remplissage effectué : 1,2 en rouge
+
+Erreur : Variable Strutta(typeString) (Position d'origine :Cellule C28 & E28 & G28 -> Position de destination : Cellule AC5 ) de la placette4 (Feuille A4) : 0,0,0
+    -> Conditions de cohérence :  Les trois valeurs sont des A et on indique 0, l'une des trois est un P et on indique 1
+        -> Remplissage effectué : error en rouge
+
+Erreur : Variable Nmaura(typeString) (Position d'origine :Cellule C29 & E29 & G29 -> Position de destination : Cellule AD5 ) de la placette4 (Feuille A4) : 0,0,0
+    -> Conditions de cohérence :  Les trois valeurs sont des A et on indique 0, l'une des trois est un P et on indique 1
+        -> Remplissage effectué : error en rouge
+
+Erreur : Variable Farming(typeString) (Position d'origine :Cellule E30 -> Position de destination : Cellule AE5 ) de la placette4 (Feuille B4) : vide
+    -> Conditions de cohérence :  valeur attendue : oui; non; Oui ou Non
+        -> Remplissage effectué : vide donc NA
+
+Erreur : Variable Moss,Herbaceous,Shrub,Trees(typeInteger) (Position d'origine :Cellule E31,E32,E33,E34 -> Position de destination : Cellule AI5,AH5,AG5,AF5 ) de la placette4 (Feuille B4) : 40,20,0,90
+    -> Conditions de cohérence :  La somme des 4 doit être égale à 100
+        -> Remplissage effectué : 40,20,0,90 en rouge
+
