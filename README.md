@@ -1,4 +1,5 @@
-# Data Formatting and Quality Control, Computing for Ecology / Mise en forme et contrôle qualité de données, l’informatique au service de l’écologie
+# Data Formatting and Quality Control, Computing for Ecology  
+# Mise en forme et contrôle qualité de données, l’informatique au service de l’écologie
 #### Computer program and example relating to the article / Programme informatique et exemple relatifs à l'article 
 
 
