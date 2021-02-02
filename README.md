@@ -44,3 +44,8 @@ Le diamètre de la plus grande vasque (Variable MaxSize) a été exprimé en cen
 Les variables S.trutta et N.maura ont été indiquées selon 0 ou 1 ;  
 Les valeurs des variables relatives aux strates végétatives (Moss, Herbaceous, Shrubs et Trees) ne permettent pas leur correction telle quelle, il est nécessaire d'observer les fichiers des autres années pour le même torrent qui renseigneront peut être des valeurs plus cohérentes. Dans le cas contraire, ces variables ne seront pas exploitables pour l'analyse d'abondance. 
 
+
+# To test the program / Pour tester le programme
+Download the input file and the PrgmInfo file, record them in a same folder. Open the PrgmInfo file and active macro, go to Display - Macro - Display macros. Select the macro to execute, clic on Execute, enter the input filename (here: "Input"), clic on OK.
+Télécharger le fichier Input et le fichier PrgmInfo, enregistrer les dans le même dossier. Ouvrir le fichier PrgmInfo et activer les macros, aller dans Affichage - Macro - Afficher les macros. Sélectionner la macro à exécuter, cliquer sur Exécuter, entrer le nom du fichier input (ici : "Input"), cliquer sur OK.
+
