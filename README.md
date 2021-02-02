@@ -46,6 +46,6 @@ Les valeurs des variables relatives aux strates végétatives (Moss, Herbaceous,
 
 
 # To test the program / Pour tester le programme
-Download the input file and the PrgmInfo file, record them in a same folder. Open the PrgmInfo file and active macro, go to Display - Macro - Display macros. Select the macro to execute, clic on Execute, enter the input filename (here: "Input"), clic on OK.  
-Télécharger le fichier Input et le fichier PrgmInfo, enregistrer les dans le même dossier. Ouvrir le fichier PrgmInfo et activer les macros, aller dans Affichage - Macro - Afficher les macros. Sélectionner la macro à exécuter, cliquer sur Exécuter, entrer le nom du fichier input (ici : "Input"), cliquer sur OK.
+Download the input file and the PrgmInfo file (.xlsm), record them in a same folder. Open the PrgmInfo file and active macro, go to Display - Macro - Display macros. Select the macro to execute, clic on Execute, enter the input filename (here: "Input"), clic on OK.  
+Télécharger le fichier Input et le fichier PrgmInfo (.xlsm), enregistrer les dans le même dossier. Ouvrir le fichier PrgmInfo et activer les macros, aller dans Affichage - Macro - Afficher les macros. Sélectionner la macro à exécuter, cliquer sur Exécuter, entrer le nom du fichier input (ici : "Input"), cliquer sur OK.
 
