@@ -1,5 +1,5 @@
-fichier origine :AspeEstI_Aval_2017.xlsx
-fichier de destination :Abond_Covar_AspeEstI_Aval_2017.xlsx
+fichier origine :Input.xlsx
+fichier de destination :Abond_Covar_Input.xlsx
 
 ---------- Placette 1----------
 
