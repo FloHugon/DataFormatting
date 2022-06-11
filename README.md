@@ -14,6 +14,8 @@ Dans de nombreuses disciplines scientifiques, des études expérimentales ou des
 
 
 # About joined files
+June 2022: tabling of the report of the webinar held on 31 May 2022, during which this work was presented.
+
 Supply of the computer program and the input, output, anomaly, corrected output files for the example of a torrent with 4 sites. 
 
 Input: raw data for the computer program.  
@@ -30,6 +32,8 @@ The values of the variables relative to the vegetative strata (Moss, Herbaceous,
 
 
 # A propos des fichiers joints
+Juin 2022 : dépôt du compte rendu du Webinaire organisé le 31 mai 2022, au cours duquel ces travaux ont été présentés.
+
 Fourniture du programme informatique et des fichiers input, output, anomalie, output corrected pour l’exemple d’un torrent découpé en 4 sites. 
 
 Input : données brutes en intrant du programme informatique  
